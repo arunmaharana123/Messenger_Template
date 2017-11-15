@@ -8,9 +8,10 @@ Simple Page
 
 Features :
 --------------
-Online Members
-Members Profile
-Message
-Reply To Message
-Pending Members
+Online Members<br>
+Members Profile<br>
+Message<br>
+Delete Message<br>
+Reply To Message<br>
+Pending Members<br>
 Approve or confirm requests ...
