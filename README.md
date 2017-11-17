@@ -1,4 +1,4 @@
-# Messenger_Template
+# Messenger HTML Template, 1 Page Template
 
 HTML, Java Script, JQuery, Bootstrap, CSS
 
